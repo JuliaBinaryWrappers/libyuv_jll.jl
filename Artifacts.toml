@@ -1,0 +1,160 @@
+[[libyuv]]
+arch = "aarch64"
+git-tree-sha1 = "0463b6916697549697fd7dfc6b44fc6e268df77b"
+os = "macos"
+
+    [[libyuv.download]]
+    sha256 = "51680cfacc429d23e5e80bbb035d958125e03e972582a26d3210d9638ad28a14"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[libyuv]]
+arch = "aarch64"
+git-tree-sha1 = "18fb71e13b5bbe3340ad7e963d08a989564ad2dd"
+libc = "glibc"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "ab51af1367b6710e200b118f2f4063a5ba4bdbb62e34aceec031a7c87de0228f"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[libyuv]]
+arch = "aarch64"
+git-tree-sha1 = "1b33ca1d0a6a9b1a774135a76a70e4309dbaa483"
+libc = "musl"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "e39adfed2ea7a48ef613c061d50cc4f3e4470fdfe171d9ac6e8ab47f61741ca3"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.aarch64-linux-musl.tar.gz"
+[[libyuv]]
+arch = "aarch64"
+git-tree-sha1 = "9a331374b8f5802776b05b2a4915277912554d44"
+os = "freebsd"
+
+    [[libyuv.download]]
+    sha256 = "7befdde3e3194e9b43d8ebd06b3124b86b9250b980538575340f68130890c137"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.aarch64-unknown-freebsd.tar.gz"
+[[libyuv]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8355e516219834e21462b81e2626ef2540bbad5a"
+libc = "glibc"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "8685f8d37f170f5991b1725c7a5e289f7a29a03e0fa0f35f204d60907eb8a132"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[libyuv]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2c278f50d7931552e57ddd17aa1338f02904c5fd"
+libc = "musl"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "97451c04953beea0c06a5625674db267146ef4c0e0079e6819d808cf32f1700b"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[libyuv]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e017d2b39ebccd2771bd5f57ac2833d2f9f490ab"
+libc = "glibc"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "b79f8e6a78fc4612c6664e3e7a1e580233a74d029dd7ec989246e4b24a918a40"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[libyuv]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1e1263819b17d9428305369c3fcdc7bc6da8e9f1"
+libc = "musl"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "870a551d488b55ae1efd5834d5a7cb0d49210a652738d482d4946aa8c8b0d26a"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[libyuv]]
+arch = "i686"
+git-tree-sha1 = "375e162e430d16c6dbd76bab996d3b2b649d66d3"
+libc = "glibc"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "74a8ccc64f1157eeba6cd42da53f3a59c87ee0bba8f8e06d06eee5b8acfba74b"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.i686-linux-gnu.tar.gz"
+[[libyuv]]
+arch = "i686"
+git-tree-sha1 = "9516c59b0b089dd593c46995624fb7c376896062"
+libc = "musl"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "0815b02af109d86c6fb0656f60ed73ff36a5b09cfcb3f34f2d66b6c29eef2d5a"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.i686-linux-musl.tar.gz"
+[[libyuv]]
+arch = "i686"
+git-tree-sha1 = "e587896e06a1cd187cd401616472216a56824ab5"
+os = "windows"
+
+    [[libyuv.download]]
+    sha256 = "8d2e150ee16e69068fd4ab662d78fecc7091f4d1d7a7886f141863c0655a2b86"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.i686-w64-mingw32.tar.gz"
+[[libyuv]]
+arch = "powerpc64le"
+git-tree-sha1 = "9416796625260598be395cb2379cd6fe0f827ca1"
+libc = "glibc"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "4f3e43bbe957276ca8b6f92113e4201cc4421f9d679a63c3606397dee0e56668"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[libyuv]]
+arch = "riscv64"
+git-tree-sha1 = "ae37d900cbc117bf8623d6fdd50e84145e8f9c21"
+libc = "glibc"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "af5f062854a7f2eba88b34fc73d6d351e36c1a9ccdaad50bf204bac57b1662bd"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.riscv64-linux-gnu.tar.gz"
+[[libyuv]]
+arch = "x86_64"
+git-tree-sha1 = "53acef1f5b0db34afd7a3b574c6ddd6fef81139c"
+os = "macos"
+
+    [[libyuv.download]]
+    sha256 = "3bfd7d59c81cd75f5564382f79035dc42761f1f8f1574e48c517c1877464055f"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[libyuv]]
+arch = "x86_64"
+git-tree-sha1 = "e95d0ac94906b1f100fe9c189cfaf659d9621967"
+libc = "glibc"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "dccc0f10373bc2c3f4707275e7120724936ade064bee99ec80a43be9cfa949dd"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[libyuv]]
+arch = "x86_64"
+git-tree-sha1 = "aea36052db8cd2ebe9f95223baa4219bd883035e"
+libc = "musl"
+os = "linux"
+
+    [[libyuv.download]]
+    sha256 = "8dd3581428730ca63f570cdbe90d92a7be67b7ea4d96e26578b04641eec2f9e4"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.x86_64-linux-musl.tar.gz"
+[[libyuv]]
+arch = "x86_64"
+git-tree-sha1 = "de8a8470a286a563e00b22adf14daa0d34d28085"
+os = "freebsd"
+
+    [[libyuv.download]]
+    sha256 = "89f0821eb6a341d104ae7bc9cd7964c45a17d583a1328b4c1b63ebb7905b10ba"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[libyuv]]
+arch = "x86_64"
+git-tree-sha1 = "5659dd4b0b0ab57677f81ee99f38d2b90b34e548"
+os = "windows"
+
+    [[libyuv.download]]
+    sha256 = "13a8d067e2bb650d623e1e9c3676326141b4c32799a81db35cfe11f87e2dcb7b"
+    url = "https://github.com/JuliaBinaryWrappers/libyuv_jll.jl/releases/download/libyuv-v0.1.0+0/libyuv.v0.1.0.x86_64-w64-mingw32.tar.gz"
